@@ -4,7 +4,8 @@
   "description": "Kata d'entrainement pour le cursus",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha"
+    "test": "./node_modules/mocha/bin/mocha",
+    "test:watch": "clear;./node_modules/mocha/bin/mocha --watch"
   },
   "repository": {
     "type": "git",
