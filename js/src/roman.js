@@ -3,3 +3,5 @@ class Roman {
         return -1;
     }
 }
+
+module.exports = Roman;
