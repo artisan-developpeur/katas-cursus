@@ -21,7 +21,7 @@ Dans un match parfait (que des strike) le score est de 300 points.
 ## Exercice
 Créer la classe suivante : 
 ```
-class Game
+class Bowling
     // Permet de renseigner sur le score d’un tir 
     public void roll(int pins)
     // Permet de récupérer le score en cours 
