@@ -7,5 +7,7 @@ describe('Diseur', function() {
       diseur = new Diseur();
     });
 
-  it('should implement business rules');
+  it('should read basic string', function(){
+    assert.equal(diseur.suivant("1"), "11");
+  });
 });

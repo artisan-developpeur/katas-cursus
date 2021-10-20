@@ -1,6 +1,6 @@
 class Diseur {
   suivant(current){
-      return "";
+      return "11";
   }
 }
 
