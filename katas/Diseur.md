@@ -1,16 +1,16 @@
 # Kata : Diseur de chaine
-Niveau : 3/3 
+Niveau : 3/3
 ## Ennoncé
-Prend une chaine de caractère et la dit :  
-“1” > “11” > “21” > “1211” > “111221” > “312211” > “13112221”  
+Prend une chaine de caractère et la dit :
+“1” > “11” > “21” > “1211” > “111221” > “312211” > “13112221”
 
-Astuce : pour comprendre la logique, prononce la chaine à haute voix !  
-D’où le nom du kata... 😄  
+Astuce : pour comprendre la logique, prononce la chaine à haute voix !
+D’où le nom du kata... 😄
 
 ## Exercice
 Créer la classe suivante :
 ```
-class StringReader
+class Diseur
     // Calcule la prochaine chaine
-    public String next(String currentString)
+    public String suivant(String currentString)
 ```

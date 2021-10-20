@@ -1,5 +1,5 @@
 class Diseur {
-  next(current){
+  suivant(current){
       return "";
   }
 }
