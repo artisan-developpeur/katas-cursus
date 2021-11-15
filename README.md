@@ -8,7 +8,11 @@ Les énoncés sont dans le répertoire [kata](./katas/).
 
 ## Dossier js 
 
-Ce dossier contient le point de départ du kata.
+Ce dossier contient le point de départ du kata pour le langage Javascript.
+
+## Dossier java
+
+Ce dossier contient le point de départ du kata pour le langage Java.
 
 ## Autres langages
 
