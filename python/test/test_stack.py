@@ -1,11 +1,15 @@
 from unittest import TestCase
 
-import stack
+from stack import Stack
 
 
 class TestStack(TestCase):
-    """
-    push should stack the provided value
-    pop should provide the latest value
-    count should return the stack size
-    """
+
+    def test_push_should_stack_the_provided_value(self):
+        pass
+
+    def test_pop_should_provide_the_latest_value(self):
+        pass
+
+    def test_count_should_return_the_stack_size(self):
+        pass

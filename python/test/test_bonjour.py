@@ -6,4 +6,7 @@ from bonjour import Bonjour
 class TestBonjour(TestCase):
 
     def setUp(self) -> None:
-        bonjour = Bonjour()
+        self.bonjour = Bonjour()
+
+    def test_should_say_hi(self):
+        pass

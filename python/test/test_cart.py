@@ -6,4 +6,7 @@ from cart import Cart
 class TestCart(TestCase):
 
     def setUp(self) -> None:
-        cart = Cart()
+        self.cart = Cart()
+
+    def test_should_implement_business_rules(self):
+        pass
