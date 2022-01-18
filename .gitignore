@@ -1,3 +1,11 @@
+# JS
 node_modules
 .env
 .DS_Store
+
+# Java
+out/
+
+# IntelliJ
+*.iml
+.idea/
