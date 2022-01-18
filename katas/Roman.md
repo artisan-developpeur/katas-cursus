@@ -37,6 +37,6 @@ Créer la classe suivante :
 ```
 class Roman
   // Transforme un chiffre romain en entier
-  public int decode(String firstName);
+  public int decode(String romanNumber);
 ```
 
