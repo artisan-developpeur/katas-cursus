@@ -5,6 +5,8 @@ node_modules
 
 # Java
 out/
+## Maven
+target/
 
 # IntelliJ
 *.iml
