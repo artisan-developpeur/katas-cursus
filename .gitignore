@@ -1,3 +1,13 @@
+# JS
 node_modules
 .env
 .DS_Store
+
+# Java
+out/
+## Maven
+target/
+
+# IntelliJ
+*.iml
+.idea/
