@@ -7,6 +7,9 @@ node_modules
 out/
 ## Maven
 target/
+## Gradle
+.gradle
+build/
 
 # IntelliJ
 *.iml
