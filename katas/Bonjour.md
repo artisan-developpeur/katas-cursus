@@ -1,7 +1,7 @@
 # Kata : Bonjour
 Niveau : 3/3
 
-## Ennoncé
+## Enoncé
 Ecris une classe qui dit bonjour poliment !
 Implémente les règles une après l’autre.
 

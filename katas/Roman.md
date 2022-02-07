@@ -1,7 +1,7 @@
 # Kata : Chiffres romains
 Niveau : 2/3
 
-## Ennoncé
+## Enoncé
 Le premier symbole est “I” veut dire 1. C’est assez simple !
 Si tu en mets deux “II”, ça fait 2.
 Ca marche aussi pour 3 : “III”.

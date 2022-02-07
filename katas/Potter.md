@@ -1,7 +1,7 @@
 # Kata : Kata Potter
 Niveau : 2/3 
 
-## Ennoncé
+## Enoncé
 Un libraire est tombé amoureux de la série Harry Potter et veut faire une campagne de promotion.    
 Vous devez calculer le taux de réduction accordé en achetant plusieurs livres de la célébre série. Un livre de la série coûte 8 euros.  
 Les livres peuvent être acheté en groupe afin d’obtenir des réductions :  

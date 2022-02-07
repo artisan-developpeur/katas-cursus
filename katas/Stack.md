@@ -1,7 +1,7 @@
 # Kata : Pile d’entiers
 Niveau : 1/3 
 
-## Ennoncé
+## Enoncé
 Les piles sont très pratiques pour l’algorithmique.  
 L’intérêt de l’exercice n’est pas tant dans la résolution que le travail d’écriture des tests.  
 

@@ -1,6 +1,6 @@
 # Kata : Diseur de chaine
 Niveau : 3/3
-## Ennoncé
+## Enoncé
 Prend une chaine de caractère et la dit :
 “1” > “11” > “21” > “1211” > “111221” > “312211” > “13112221”
 
